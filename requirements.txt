@@ -1,0 +1,6 @@
+contains the libraries used 
+torch
+torchvision
+matplotlib
+kagglehub
+numpy
