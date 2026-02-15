@@ -1,6 +1,8 @@
-contains the libraries used 
+It containts the libraries used for now 
 torch
 torchvision
 matplotlib
 kagglehub
 numpy
+pillow
+scikit-learn
